@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Info Banjir</string>
+    <string name="senarai_negeri">Senarai Negeri</string>
+    <string name="perlis">Perlis</string>
+    <string name="kedah">Kedah</string>
+    <string name="perak">Perak</string>
+    <string name="selangor">Selangor</string>
+    <string name="negeri_sembilan">Negeri Sembilan</string>
+    <string name="melaka">Melaka</string>
+    <string name="johor">Johor</string>
+    <string name="pahang">Pahang</string>
+    <string name="terengganu">Terengganu</string>
+    <string name="kelantan">Kelantan</string>
+    <string name="labuan">Labuan</string>
+    <string name="kl">Kuala Lumpur</string>
+    <string name="putrajaya">Putrajaya</string>
+    <string name="sabah">Sabah</string>
+    <string name="sarawak">Sarawak</string>
+    <string name="tereng_nganu">Tereng-\nganu</string>
+    <string name="pulau_pinang">Pulau Pinang</string>
+    <string name="kuala_nlumpur">Kuala\nLumpur</string>
+</resources>

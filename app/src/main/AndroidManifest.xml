@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.banjir.info.infobanjir">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".first_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".perak_activity"/>
+        <activity android:name=".kedah_activity"/>
+        <activity android:name=".johor_activity"/>
+        <activity android:name=".kelantan_activity"/>
+        <activity android:name=".melaka_activity"/>
+        <activity android:name=".n9_activity"/>
+        <activity android:name=".pahang_activity"/>
+        <activity android:name=".kl_activity"/>
+        <activity android:name=".labuan_activity"/>
+        <activity android:name=".perlis_activity"/>
+        <activity android:name=".pulaupinang_activity"/>
+        <activity android:name=".sabah_activity"/>
+        <activity android:name=".sarawak_activity"/>
+        <activity android:name=".selangor_activity"/>
+        <activity android:name=".terengganu_activity"/>
+    </application>
+
+</manifest>
